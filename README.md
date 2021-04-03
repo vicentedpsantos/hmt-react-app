@@ -12,5 +12,5 @@ In the [htm-chrome-plugin](https://github.com/vicentedpsantos/hmt-chrome-plugin)
 
 # Templates
 
-This app is being run with hardcoded templates ([see here](https://github.com/vicentedpsantos/hmt-react-app)), but you can choose to fetch those from your own server or start storing those in the user's localStorage.
+This app is being run with hardcoded templates ([see here](https://github.com/vicentedpsantos/hmt-react-app/blob/main/src/services/fetchTemplates.js)), but you can choose to fetch those from your own server or start storing those in the user's localStorage.
 
