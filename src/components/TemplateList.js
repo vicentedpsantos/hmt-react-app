@@ -15,21 +15,21 @@ const ListItem = styled.div`
   vertical-alignment: middle;
   cursor: pointer;
   font-family: 'Google Sans', Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
-	display: inline-block;
-	border: 1px solid #dcdcdc;
-	border-radius: 2px;
-	font-size: 11px;
-	font-weight: bold;
-	text-align: center;
-	height: 27px;
-	line-height: 27px;
-	min-width: 54px;
-	padding: 0 8px;
-	text-decoration: none;
+  display: inline-block;
+  border: 1px solid #dcdcdc;
+  border-radius: 2px;
+  font-size: 11px;
+  font-weight: bold;
+  text-align: center;
+  height: 27px;
+  line-height: 27px;
+  min-width: 54px;
+  padding: 0 8px;
+  text-decoration: none;
   background-color: #4D90FE;
-	background-image: linear-gradient(top,#4d90fe,#4787ed);
-	border: 1px solid #3079ED;
-	color: white;
+  background-image: linear-gradient(top,#4d90fe,#4787ed);
+  border: 1px solid #3079ED;
+  color: white;
 
   &:hover {
     border: 1px solid #2F5BB7;
